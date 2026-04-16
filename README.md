@@ -70,8 +70,8 @@ The goal is to uncover key business insights and provide data-driven recommendat
 
 ## 📂 Project Files
 
-- Power BI File: [Download Dashboard](Real_Estate_Dashboard.phit)  
-- Dataset: [Download Dataset](Real-Estate-Dataset.xlsx)
+- Power BI File: [Download Dashboard](Real%20Estate%20Dashboard.pbit)  
+- Dataset: [Download Dataset](Real_Estate_Dataset.xlsx)
 
 ---
 
